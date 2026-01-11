@@ -1,4 +1,25 @@
-<h1 align="center">📊 Análise de Dados de Marketing</h1> <p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-9cf?logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Concluído-success" /> </p><p align="center"> <a href="https://colab.research.google.com/github/CleidsonGoes/Analise_Estatistica_de_Dados_Para_Area_de_Marketing/blob/main/index.ipynb"> <img src="https://img.shields.io/badge/Abrir%20no%20Google%20Colab-F9AB00?logo=googlecolab&logoColor=black" /> </a> </p> <br>
+<h1 align="center">📊 Análise Estatística de Dados para Marketing</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13.5-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1.26.4-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2.3.3-orange?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3.10.7-blueviolet" />
+  <img src="https://img.shields.io/badge/Seaborn-0.13.2-5A9?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Concluído-success" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/CleidsonGoes/Analise_Estatistica_de_Dados_Para_Area_de_Marketing/blob/main/index.ipynb">
+    <img src="https://img.shields.io/badge/Abrir%20no%20Google%20Colab-F9AB00?logo=googlecolab&logoColor=black" />
+  </a>
+</p>
+
+<br>
 
 🧠 <strong>Sobre o Projeto</strong>
 
