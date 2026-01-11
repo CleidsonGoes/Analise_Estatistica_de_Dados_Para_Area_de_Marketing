@@ -2,18 +2,22 @@
 
 🧠 <strong>Sobre o Projeto</strong>
 
-Este projeto apresenta uma análise exploratória de dados (EDA) aplicada à área de marketing, com o objetivo de avaliar o desempenho de campanhas, comportamento do público e eficiência de canais de aquisição.
+Este projeto tem como foco a Análise Estatística de Dados com NumPy aplicada à área de Marketing Digital, utilizando dados de comportamento de usuários de uma plataforma de e-commerce.
 
-A análise permite compreender como diferentes estratégias impactam métricas como engajamento, conversão e retorno sobre investimento (ROI), apoiando decisões orientadas por dados no planejamento de marketing.
+A empresa coleta informações como número de visitas, tempo de navegação, itens adicionados ao carrinho e valor final das compras, porém essas informações não estavam sendo exploradas de forma analítica. As decisões de marketing e produto eram baseadas principalmente em intuição e métricas de alto nível, resultando em campanhas genéricas, baixo engajamento e desperdício de orçamento.
+
+O objetivo deste projeto é transformar dados brutos em insights acionáveis, permitindo compreender os padrões de comportamento que diferenciam clientes de alto valor de visitantes que não realizam compras, apoiando decisões estratégicas orientadas por dados.
 
 <br>
 
 🧩 <strong>Tecnologias Utilizadas</strong>
 
-🐍 Python 3.10+
-🧮 Pandas — Limpeza, transformação e análise de dados
-📊 Plotly Express — Visualizações interativas
-📓 Jupyter Notebook
+🐍 Python 3.13.5
+🧮 NumPy 1.26.4 — Computação numérica e análise estatística
+🧾 Pandas 2.3.3 — Limpeza, transformação e análise de dados
+📊 Matplotlib 3.10.7 — Visualização de dados
+🌊 Seaborn 0.13.2 — Visualizações estatísticas
+📓 Jupyter Notebook — Ambiente de desenvolvimento e análise
 
 <br>
 
@@ -42,18 +46,13 @@ A análise permite compreender como diferentes estratégias impactam métricas c
 ✔️ Forma recomendada:
 Clique no botão <strong>“Abrir no Google Colab”</strong> no topo deste README e execute todas as células.
 
-✔️ Execução local (opcional):
-
-pip install pandas plotly
-jupyter notebook
-
 <br>
 
 📁 <strong>Estrutura do Projeto</strong>
 
 📦 Analise-de-Dados-de-Marketing
-├── 📊 dados_marketing.csv
-├── 📓 analise_marketing.ipynb
+├── 📊 dados_ecommerce.csv
+├── 📓 index.ipynb
 └── 📘 README.md
 
 <br>
