@@ -45,9 +45,9 @@ O objetivo deste projeto é transformar dados brutos em insights acionáveis, pe
 ⚙️ <strong>Etapas da Análise</strong>
 
 🔹 Importação e compreensão da base de dados de marketing<br>
-🔹 Análise estatística descritiva das campanhas<br>
-🔹 Avaliação de desempenho por canal (ex: redes sociais, e-mail, mídia paga)<br>
-🔹 Análise de métricas de funil (engajamento, conversão, retenção)<br>
+🔹 Análise estatística descritiva<br>
+🔹 Segmentação e Análise de Clientes<br>
+🔹 Análise de Correlação<br>
 🔹 Criação de visualizações interativas para suporte aos insights
 
 <br>
