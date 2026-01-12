@@ -33,32 +33,31 @@ O objetivo deste projeto é transformar dados brutos em insights acionáveis, pe
 
 🧩 <strong>Tecnologias Utilizadas</strong>
 
-🐍 Python 3.13.5
-🧮 NumPy 1.26.4 — Computação numérica e análise estatística
-🧾 Pandas 2.3.3 — Limpeza, transformação e análise de dados
-📊 Matplotlib 3.10.7 — Visualização de dados
-🌊 Seaborn 0.13.2 — Visualizações estatísticas
+🐍 Python 3.13.5<br>
+🧮 NumPy 1.26.4 — Computação numérica e análise estatística<br>
+🧾 Pandas 2.3.3 — Limpeza, transformação e análise de dados<br>
+📊 Matplotlib 3.10.7 — Visualização de dados<br>
+🌊 Seaborn 0.13.2 — Visualizações estatísticas<br>
 📓 Jupyter Notebook — Ambiente de desenvolvimento e análise
 
 <br>
 
 ⚙️ <strong>Etapas da Análise</strong>
 
-🔹 Importação e compreensão da base de dados de marketing
-🔹 Tratamento de valores ausentes e padronização de variáveis
-🔹 Análise estatística descritiva das campanhas
-🔹 Avaliação de desempenho por canal (ex: redes sociais, e-mail, mídia paga)
-🔹 Análise de métricas de funil (engajamento, conversão, retenção)
+🔹 Importação e compreensão da base de dados de marketing<br>
+🔹 Análise estatística descritiva das campanhas<br>
+🔹 Avaliação de desempenho por canal (ex: redes sociais, e-mail, mídia paga)<br>
+🔹 Análise de métricas de funil (engajamento, conversão, retenção)<br>
 🔹 Criação de visualizações interativas para suporte aos insights
 
 <br>
 
 💡 <strong>Principais Insights</strong>
 
-🔹 Identificação dos canais de marketing com melhor desempenho em conversão e ROI.
-🔹 Campanhas com maior engajamento tendem a apresentar melhores taxas de conversão.
-🔹 Determinados públicos respondem melhor a estratégias específicas de comunicação.
-🔹 O uso eficiente dos dados pode otimizar investimentos e melhorar os resultados das campanhas.
+🔹 A quantidade de itens no carrinho é o principal fator associado ao aumento do valor da compra.<br>
+🔹 A frequência de visitas impacta positivamente o ticket médio, enquanto o tempo no site não apresenta correlação relevante.<br>
+🔹 Clientes de alto valor demonstram maior engajamento e devem ser priorizados em estratégias de fidelização.<br>
+🔹 Usuários engajados que não compram representam oportunidades estratégicas para otimização da conversão e remarketing.
 
 <br>
 
@@ -71,19 +70,19 @@ Clique no botão <strong>“Abrir no Google Colab”</strong> no topo deste READ
 
 📁 <strong>Estrutura do Projeto</strong>
 
-📦 Analise-de-Dados-de-Marketing
-├── 📊 dados_ecommerce.csv
-├── 📓 index.ipynb
-└── 📘 README.md
+📦 Analise-de-Dados-de-Marketing<br>
+├── 📊 dados_ecommerce.csv<br>
+├── 📓 index.ipynb<br>
+└── 📘 README.md<br>
 
 <br>
 
 🎯 <strong>Diferenciais do Projeto</strong>
 
-✔ Análise orientada a métricas de marketing
-✔ Insights voltados para tomada de decisão
-✔ Visualizações interativas
-✔ Execução simples via Google Colab
+✔ Análise orientada a métricas de marketing<br>
+✔ Insights voltados para tomada de decisão<br>
+✔ Visualizações interativas<br>
+✔ Execução simples via Google Colab<br>
 ✔ Ideal para portfólio de Analista de Dados / BI
 
 <br>
