@@ -1,39 +1,63 @@
-<h1 align="center">📊 Análise de Dados de Marketing</h1> <p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-9cf?logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Concluído-success" /> </p><p align="center"> <a href="https://colab.research.google.com/github/CleidsonGoes/Analise_Estatistica_de_Dados_Para_Area_de_Marketing/blob/main/index.ipynb"> <img src="https://img.shields.io/badge/Abrir%20no%20Google%20Colab-F9AB00?logo=googlecolab&logoColor=black" /> </a> </p> <br>
+<h1 align="center">📊 Análise Estatística de Dados para Marketing</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13.5-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1.26.4-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2.3.3-orange?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3.10.7-blueviolet" />
+  <img src="https://img.shields.io/badge/Seaborn-0.13.2-5A9?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Concluído-success" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/CleidsonGoes/Analise_Estatistica_de_Dados_Para_Area_de_Marketing/blob/main/index.ipynb">
+    <img src="https://img.shields.io/badge/Abrir%20no%20Google%20Colab-F9AB00?logo=googlecolab&logoColor=black" />
+  </a>
+</p>
+
+<br>
 
 🧠 <strong>Sobre o Projeto</strong>
 
-Este projeto apresenta uma análise exploratória de dados (EDA) aplicada à área de marketing, com o objetivo de avaliar o desempenho de campanhas, comportamento do público e eficiência de canais de aquisição.
+Este projeto tem como foco a Análise Estatística de Dados com NumPy aplicada à área de Marketing Digital, utilizando dados de comportamento de usuários de uma plataforma de e-commerce.
 
-A análise permite compreender como diferentes estratégias impactam métricas como engajamento, conversão e retorno sobre investimento (ROI), apoiando decisões orientadas por dados no planejamento de marketing.
+A empresa coleta informações como número de visitas, tempo de navegação, itens adicionados ao carrinho e valor final das compras, porém essas informações não estavam sendo exploradas de forma analítica. As decisões de marketing e produto eram baseadas principalmente em intuição e métricas de alto nível, resultando em campanhas genéricas, baixo engajamento e desperdício de orçamento.
+
+O objetivo deste projeto é transformar dados brutos em insights acionáveis, permitindo compreender os padrões de comportamento que diferenciam clientes de alto valor de visitantes que não realizam compras, apoiando decisões estratégicas orientadas por dados.
 
 <br>
 
 🧩 <strong>Tecnologias Utilizadas</strong>
 
-🐍 Python 3.10+
-🧮 Pandas — Limpeza, transformação e análise de dados
-📊 Plotly Express — Visualizações interativas
-📓 Jupyter Notebook
+🐍 Python 3.13.5<br>
+🧮 NumPy 1.26.4 — Computação numérica e análise estatística<br>
+🧾 Pandas 2.3.3 — Limpeza, transformação e análise de dados<br>
+📊 Matplotlib 3.10.7 — Visualização de dados<br>
+🌊 Seaborn 0.13.2 — Visualizações estatísticas<br>
+📓 Jupyter Notebook — Ambiente de desenvolvimento e análise
 
 <br>
 
 ⚙️ <strong>Etapas da Análise</strong>
 
-🔹 Importação e compreensão da base de dados de marketing
-🔹 Tratamento de valores ausentes e padronização de variáveis
-🔹 Análise estatística descritiva das campanhas
-🔹 Avaliação de desempenho por canal (ex: redes sociais, e-mail, mídia paga)
-🔹 Análise de métricas de funil (engajamento, conversão, retenção)
+🔹 Importação e compreensão da base de dados de marketing<br>
+🔹 Análise estatística descritiva<br>
+🔹 Segmentação e Análise de Clientes<br>
+🔹 Análise de Correlação<br>
 🔹 Criação de visualizações interativas para suporte aos insights
 
 <br>
 
 💡 <strong>Principais Insights</strong>
 
-🔹 Identificação dos canais de marketing com melhor desempenho em conversão e ROI.
-🔹 Campanhas com maior engajamento tendem a apresentar melhores taxas de conversão.
-🔹 Determinados públicos respondem melhor a estratégias específicas de comunicação.
-🔹 O uso eficiente dos dados pode otimizar investimentos e melhorar os resultados das campanhas.
+🔹 A quantidade de itens no carrinho é o principal fator associado ao aumento do valor da compra.<br>
+🔹 A frequência de visitas impacta positivamente o ticket médio, enquanto o tempo no site não apresenta correlação relevante.<br>
+🔹 Clientes de alto valor demonstram maior engajamento e devem ser priorizados em estratégias de fidelização.<br>
+🔹 Usuários engajados que não compram representam oportunidades estratégicas para otimização da conversão e remarketing.
 
 <br>
 
@@ -42,28 +66,23 @@ A análise permite compreender como diferentes estratégias impactam métricas c
 ✔️ Forma recomendada:
 Clique no botão <strong>“Abrir no Google Colab”</strong> no topo deste README e execute todas as células.
 
-✔️ Execução local (opcional):
-
-pip install pandas plotly
-jupyter notebook
-
 <br>
 
 📁 <strong>Estrutura do Projeto</strong>
 
-📦 Analise-de-Dados-de-Marketing
-├── 📊 dados_marketing.csv
-├── 📓 analise_marketing.ipynb
-└── 📘 README.md
+📦 Analise-de-Dados-de-Marketing<br>
+├── 📊 dados_ecommerce.csv<br>
+├── 📓 index.ipynb<br>
+└── 📘 README.md<br>
 
 <br>
 
 🎯 <strong>Diferenciais do Projeto</strong>
 
-✔ Análise orientada a métricas de marketing
-✔ Insights voltados para tomada de decisão
-✔ Visualizações interativas
-✔ Execução simples via Google Colab
+✔ Análise orientada a métricas de marketing<br>
+✔ Insights voltados para tomada de decisão<br>
+✔ Visualizações interativas<br>
+✔ Execução simples via Google Colab<br>
 ✔ Ideal para portfólio de Analista de Dados / BI
 
 <br>
