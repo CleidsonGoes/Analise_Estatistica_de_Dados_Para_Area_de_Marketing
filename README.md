@@ -23,11 +23,11 @@
 
 🧠 <strong>Sobre o Projeto</strong>
 
-Este projeto tem como foco a Análise Estatística de Dados com NumPy aplicada à área de Marketing Digital, utilizando dados de comportamento de usuários de uma plataforma de e-commerce.
+<div style="text-align: justify;">Este projeto tem como foco a Análise Estatística de Dados com NumPy aplicada à área de Marketing Digital, utilizando dados de comportamento de usuários de uma plataforma de e-commerce.</div>
 
-A empresa coleta informações como número de visitas, tempo de navegação, itens adicionados ao carrinho e valor final das compras, porém essas informações não estavam sendo exploradas de forma analítica. As decisões de marketing e produto eram baseadas principalmente em intuição e métricas de alto nível, resultando em campanhas genéricas, baixo engajamento e desperdício de orçamento.
+<div style="text-align: justify;">A empresa coleta informações como número de visitas, tempo de navegação, itens adicionados ao carrinho e valor final das compras, porém essas informações não estavam sendo exploradas de forma analítica. As decisões de marketing e produto eram baseadas principalmente em intuição e métricas de alto nível, resultando em campanhas genéricas, baixo engajamento e desperdício de orçamento.</div>
 
-O objetivo deste projeto é transformar dados brutos em insights acionáveis, permitindo compreender os padrões de comportamento que diferenciam clientes de alto valor de visitantes que não realizam compras, apoiando decisões estratégicas orientadas por dados.
+<div style="text-align: justify;">O objetivo deste projeto é transformar dados brutos em insights acionáveis, permitindo compreender os padrões de comportamento que diferenciam clientes de alto valor de visitantes que não realizam compras, apoiando decisões estratégicas orientadas por dados.</div>
 
 <br>
 
